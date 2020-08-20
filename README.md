@@ -1,7 +1,7 @@
 # Machine Learning on Coursera
 
-Instructor: [Andrew Ng](http://www.andrewng.org/)
-Date complete: 2/2020
+- Instructor: [Andrew Ng](http://www.andrewng.org/)
+- Date complete: 2/2020
 ## Introduction
 
 This repo contains all my assignments for this specialization, [Machine Learning on Coursera](https://www.coursera.org/learn/machine-learning).
