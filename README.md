@@ -8,6 +8,7 @@ This repo contains all my assignments for this specialization, [Machine Learning
 
 ## Programming Assignments
 
-- Course 1: Neural Networks and Deep Learning
+- [Course 1: Neural Networks and Deep Learning](ex1/ex1.pdf)
 
-  - [Week 2 - PA 1 - Logistic Regression with a Neural Network mindset]
+
+ 
