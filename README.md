@@ -8,7 +8,14 @@ This repo contains all my assignments for this specialization, [Machine Learning
 
 ## Programming Assignments
 
-- [Course 1: Neural Networks and Deep Learning](ex1/ex1.pdf)
+- [Linear Regression](ex1/ex1.pdf)
+- [Logistic Regression](ex2/ex2.pdf)
+- [Multi-class Classification and Neural Networks](ex3/ex3.pdf)
+- [Neural Networks Learning](ex4/ex4.pdf)
+- [Regularized Linear Regression and Bias vs. Variance](ex5/ex5.pdf)
+- [Support Vector Machines](ex6/ex6.pdf)
+- [K-Means Clustering and Principal Component Analysis](ex7/ex7.pdf)
+- [Anomaly Detection and Recommender Systems](ex8/ex8.pdf)
 
 
  
