@@ -6,7 +6,7 @@ Instructor: [Andrew Ng](http://www.andrewng.org/)
 
 This repo contains all my assignments for this specialization, [Machine Learning on Coursera](https://www.coursera.org/learn/machine-learning).
 
-## Programming Assignments
+## Programming Assignments (PDF)
 
 - [Linear Regression](ex1/ex1.pdf)
 - [Logistic Regression](ex2/ex2.pdf)
